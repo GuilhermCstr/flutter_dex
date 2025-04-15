@@ -4,7 +4,7 @@ A Flutter Pokedex project.
 
 ## About
 
-A few resources to get you started if this is your first Flutter project:
+for the design i use some references to clone:
 
 - [design 1](https://dribbble.com/shots/16833947-Mobile-Pokedex-App-Design-Exploration)
 - [design 2](https://dribbble.com/shots/20557553-Pokedex-Pokemon-App-v2)
